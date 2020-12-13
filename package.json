@@ -1,0 +1,19 @@
+{
+  "name": "project-tech-pirates-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bireworld/project-tech-pirates-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bireworld/project-tech-pirates-master/issues"
+  },
+  "homepage": "https://github.com/bireworld/project-tech-pirates-master#readme"
+}
